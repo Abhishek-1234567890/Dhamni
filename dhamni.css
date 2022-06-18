@@ -244,7 +244,7 @@ h2 {
 h3 {
     font-size: 50px;
     padding: 20px;
-    border: 1px
+    border: 1px;
 }
 
 
@@ -1365,10 +1365,13 @@ a {
 
 .w3-jumbo {
     padding: 10px;
-    border: 5px solid crimson;
-    border-radius: 50px;
-    font-family: 'Brush Script MT', cursive;
-    display:inline-block;
+    border: 10px solid crimson;
+    border-style: double;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 100px;
+    font-family: 'Times New Roman', Times, serif;
+    display:block;
     color: crimson;
     font-size: 64px !important
 }
@@ -2056,6 +2059,7 @@ article p{
 }
 .w3-container p{
     line-height:2em ;
+    font-size:20px;
     color:#4b4b4b;
     padding:30px;
     border: 1px solid #b9b9b9 ;
@@ -2068,7 +2072,6 @@ article p{
 }
 .w3-container p{
     display:inline-block;
-    font-weight:bold;   
 }
 .w3-section {
     font-weight: bold;
