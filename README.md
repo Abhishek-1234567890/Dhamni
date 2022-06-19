@@ -32,7 +32,7 @@
         - Table 1 : donor
         - Content of donor : ![Image not Found !!](donor.jpg?raw=true "Title")
         - Table 2 : recipient
-        - Content of recipient : ![Image not Found !!](recipient .jpg?raw=true "Title")
+        - Content of recipient : ![Image not Found !!](recipient.jpg?raw=true "Title")
         - Table 1 : bank
         - Content of bank : ![Image not Found !!](bank.jpg?raw=true "Title")
         - Table 1 : contact

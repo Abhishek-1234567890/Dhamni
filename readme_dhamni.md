@@ -30,7 +30,7 @@
 - Tables Creation in MySQL 
     - After setting up MySQL you will need to make 4 tables in it, which are as follows
         - Table 1 : donor
-        - Content of donor : ![Image not Found !!](donar.jpg?raw=true "Title")
+        - Content of donor : ![Image not Found !!](donor.jpg?raw=true "Title")
         - Table 2 : recipient
         - Content of recipient : ![Image not Found !!](recipient.jpg?raw=true "Title")
         - Table 1 : bank
