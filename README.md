@@ -1,24 +1,46 @@
-# RedBrick Hacks 2022 Submission Repository
+# Dhamni - A Blood Chain
 
-- Hacking starts at 11:00am (IST) on June 18th 2022
-- Hacking ends at sharp **11:00am (IST) on June 19th 2022**
-    - Late submissions will not be allowed (by us or the system)
-- DevPost Link will be provided later, that is the final submission portal - this includes your entire project, this repository directory, and a 3-minute recorded video demo of your project
-- **Your commit history in this repository will be taken into account during plagiarism check after submission.**
-    - Commit often
-    - Every commit counts, even the smallest ones
-    - Good commit messages are always appreciated 
-- [The RedBrick Hacks Code of Conduct](https://min.gitcdn.link/cdn/redbrickhacks/redbrickhacks.github.io/redirect_patch/policies.pdf)
+## Track choosed : Health and Wellness
 
-## Theme: Tech4SocialGood
-> "The best way to predict the future is to invent it." - Alan Kay
+## Team name : Jigyasa
 
-What's the year 2048 going to look like? What new problems will arise? The theme challenges participants to predict the problems of the future and come up with novel solutions. Hosted at a Liberal Arts University, we believe in an interdisciplinary approach to solve practical and socially relevant problems. 
+- Team Members 
+    - Abhishek Bhardwaj
+    - Arjun Verma
+    - Deepanshu Mishra
+    - Harsh Raj 
 
-| Tracks 	|  	| Description 	|
-|:---:	|:---:	|---	|
-| Health and Wellness 	| ![Health and Wellness](https://i.ibb.co/Y38Wgmh/Health-Light-Text-Light-Logo-2x.png) 	| How can you use technical innovation to address modern public health challenges like a pandemic, mental health, nutrition, fitness, etc? 	|
-| Sustainable Growth 	| ![Sustainable Growth](https://i.ibb.co/ySzkfzP/Sustainability-Light-Text-Light-Logo-2x.png) 	| How can you use technology to improve environmental sustainability? What social, cultural, political or economic measures can be taken to empower voices of underrepresented groups and how can tech make a difference in the role they play? 	|
-| Security and Privacy 	| ![Security and Privacy](https://i.ibb.co/7gfBd9s/Security-Light-Text-Light-Logo-2x.png) 	| What security challenges do we face in modern online and offline world with the permeance of technology into every aspect of life? How will you solve them in accessible ways? 	|
+### How to use our product
 
-## HAPPY HACKING!
+- Or you can clone our repository and use it as follows 
+    - Install XAMPP
+    - Open dhamni.html in your system
+    - Now you must be able to use our website 
+
+### Softwares Required to run this website
+
+- XAMPP
+    - Install XAMPP on your system
+    - Start Apache 
+    - Start MySQL
+
+- Database Creation in MySQL
+    - Create a database named : bank
+
+- Tables Creation in MySQL 
+    - After setting up MySQL you will need to make 4 tables in it, which are as follows
+        - Table 1 : donor
+        - Content of donor : ![Image not Found !!](donar.jpg?raw=true "Title")
+        - Table 2 : recipient
+        - Content of recipient : ![Image not Found !!](recipient.jpg?raw=true "Title")
+        - Table 1 : bank
+        - Content of bank : ![Image not Found !!](bank.jpg?raw=true "Title")
+        - Table 1 : contact
+        - Content of contact : ![Image not Found !!](contact.jpg?raw=true "Title")
+        
+- References/Code Used From
+    - Basic framework of website (html and CSS) was taken from W3schools 
+        - (https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_templates_interior_design&stacked=h)
+    -  Database framework from codewithharry
+        - (https://codewithharry.com/videos/learn-php-in-one-video-in-hindi-2020)
+    
